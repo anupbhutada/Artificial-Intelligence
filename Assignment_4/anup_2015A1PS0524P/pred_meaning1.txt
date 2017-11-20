@@ -1,0 +1,18 @@
+Human(x): x is human
+Ispompeian(x): x is Pompeian
+Isruler(x): x is ruler
+Erupt_volcano(x): volvano erupted in the year x
+Wasborn(x, y): x was born in year y
+Assassinate(x, y): x assassinated y
+Lesser(x, y): x is lesser than y
+Mortal(x): x is mortal
+Died(x, y): x died in year y
+Isdead(x, y): x is dead in the year y
+Isroman(x): x is roman
+Isloyal(x,M): x is loyal towards M
+Attempt_assassination(x,y): x tried to assassinate y
+Isnotloyal(x,y): x is not loyal towards y
+Hate(x,y): x hates y
+Assassinate(x,y): x assassinated y
+Isalive(x,y): x is alive in the year y
+Isdead(x,y): x is dead in the year y

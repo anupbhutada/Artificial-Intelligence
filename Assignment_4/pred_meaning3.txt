@@ -1,0 +1,2 @@
+Accomp(x,y): (x accompanies y) or (x is the parent of y)
+Interested(x, y): x was interested in the activity y

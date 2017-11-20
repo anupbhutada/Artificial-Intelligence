@@ -1,0 +1,16 @@
+$facts
+~Interested(Xander, hay)
+~Interested(Zach, hay)
+~Interested(Zach, apple)
+~Accomp(Reed, Lauren)
+~Accomp(Reed, Zach)
+Interested(Tara, Shopping)
+Accomp(Morgan, Xander)
+Accomp(Morgan, Xander)
+~Accomp(Fedor, Zach)
+~Accomp(Fedor, Lauren)
+$sentences
+Accomp(x,y)
+Interested(x,y)
+Accomp(Fador,x) >> Interested(x, cider)
+Accomp(x, Hanson) >> Interested(x, hay)
